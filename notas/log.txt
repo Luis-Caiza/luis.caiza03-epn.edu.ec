@@ -1,0 +1,23 @@
+[#                      ] 4%	Loading: 1 de 23	l
+[##                     ] 8%	Loading: 2 de 23	lU
+[###                    ] 13%	Loading: 3 de 23	lUI
+[####                   ] 17%	Loading: 4 de 23	lUIs
+[#####                  ] 21%	Loading: 5 de 23	lUIs.
+[######                 ] 26%	Loading: 6 de 23	lUIs.c
+[#######                ] 30%	Loading: 7 de 23	lUIs.cA
+[########               ] 34%	Loading: 8 de 23	lUIs.cAI
+[#########              ] 39%	Loading: 9 de 23	lUIs.cAIz
+[##########             ] 43%	Loading: 10 de 23	lUIs.cAIzA
+[###########            ] 47%	Loading: 11 de 23	lUIs.cAIzA0
+[############           ] 52%	Loading: 12 de 23	lUIs.cAIzA03
+[#############          ] 56%	Loading: 13 de 23	lUIs.cAIzA03@
+[##############         ] 60%	Loading: 14 de 23	lUIs.cAIzA03@e
+[###############        ] 65%	Loading: 15 de 23	lUIs.cAIzA03@ep
+[################       ] 69%	Loading: 16 de 23	lUIs.cAIzA03@epn
+[#################      ] 73%	Loading: 17 de 23	lUIs.cAIzA03@epn.
+[##################     ] 78%	Loading: 18 de 23	lUIs.cAIzA03@epn.e
+[###################    ] 82%	Loading: 19 de 23	lUIs.cAIzA03@epn.ed
+[####################   ] 86%	Loading: 20 de 23	lUIs.cAIzA03@epn.edu
+[#####################  ] 91%	Loading: 21 de 23	lUIs.cAIzA03@epn.edu.
+[###################### ] 95%	Loading: 22 de 23	lUIs.cAIzA03@epn.edu.e
+[#######################] 100%	Loading: 23 de 23	lUIs.cAIzA03@epn.edu.ec

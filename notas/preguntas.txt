@@ -1,0 +1,12 @@
+Explique en su codigo donde se produciria un Issue, bug y error?
+
+ERROR: Puede saltarme error si no estan correctamente indicadas las variables, los nombres de los
+procedimientos esten correctamente escritos y al no establecer un main a encontar en la consola
+otro error puede ser la falta de ([], (), {}, ;).
+
+ISSUE: El procedimiento showProgressBar_u() funciona de la misma manera que EscribirDocumento()
+a excepcion de EscribirDocumento que este directamente escribe en log.txt mientras que showProgressBar_u 
+solo nos mostrara caracteres en la consola esto hace que sean ineficientes para un trabajo en conjunto. 
+
+BUG: Se prueden producir por el incorrecto llamado de funciones ademas, un ciclo mal ejecutado puede 
+provocar un bug y de esta manera dejara a la consola ejecutandose infinitamente.
